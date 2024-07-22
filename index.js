@@ -52,7 +52,14 @@ if (7 > currentHour > 24) {
         case 14:
             console.log('Unleash the beast!');
             break;
-        case
+        case 18:
+            console.log('Unleash the beast!');
+            break;
+        case 23:
+            console.log('Unleash the beast!');
+            break;
+        default:
+            console.log('Better stick to water')
     }
 }
 
