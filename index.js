@@ -20,7 +20,7 @@ console.log(`Time to restock`);
 // If the heart rate is below 100 bpm, print "Boost needed!", otherwise, print "Energy levels are high!".
 
 let heartRate = 95; // Current heart rate in bpm
-console.log(`'}`);
+console.log(`Boost needed!'}`);
 
 
 // #### Challenge 4: Temperature Suitability
@@ -28,7 +28,7 @@ console.log(`'}`);
 // if the temperature is below or equal to 5°C, or "Needs a cooler!" if above 5°C.
 
 let currentTemp = 4; // Current temperature in °C
-console.log(``);
+console.log(`Chilled to perfection!`);
 
 
 // #### Challenge 5: Late Night Coding Session
